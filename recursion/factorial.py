@@ -69,13 +69,13 @@
 
 #     if num<10:
 
-#         return 1 
+#         return num
     
 #     num = num//10
 
-#     return count_number(num) + 1
+#     return count_number(num) 
 
-# result = count_number(92)
+# result = count_number(123)
 
 # print(result)
 
